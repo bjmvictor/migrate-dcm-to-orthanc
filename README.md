@@ -17,4 +17,4 @@ NOTE: This tool is used when DCM files are not compressed as ZIP or 7ZIP.. If th
 2. Open the config.py using a text editor and change the <strong>host, port, an password</strong> if your Orthanc acess need authentication.
 3. Open cmd in the root directory of the tool and run the code using:
    - py migrate.py
-4. Select the folder that have the DICOM files and confirm
+4. Select the folders that have the DICOM files and click <strong>cancel</strong> when finished.
