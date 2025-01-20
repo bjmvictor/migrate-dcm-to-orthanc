@@ -14,7 +14,7 @@ NOTE: This tool is used when DCM files are not compressed as ZIP or 7ZIP.. If th
    - pip install aiohttp
    - pip install aiofiles
    - pip install logging
-2. Open the config.py using a text editor and change the <strong>host, port, an password</strong> if your Orthanc acess need authentication.
+2. Open the config.py using a text editor and change the <strong>host, port, user, password</strong> and others options to access your pacs server
 3. Open cmd in the root directory of the tool and run the code using:
    - py migrate.py
 4. Select the folders that have the DICOM files and click <strong>cancel</strong> when finished.
